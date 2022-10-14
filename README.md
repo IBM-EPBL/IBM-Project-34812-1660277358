@@ -2,7 +2,7 @@
 A Gesture-based Tool for Sterile Browsing of Radiology Images
 
 TEAM :
-        Anand S
-        Aravind R
-        Balaguru R
-        Harish B
+       1. Anand S
+       2. Aravind R
+       3. Balaguru R
+       4. Harish B
